@@ -31,11 +31,12 @@ export default function App() {
               Hey, I'm <strong>Nomthandazo</strong>
             </div>
             <h1 className="hero-title">
-              <span className="highlight">Frontend</span><br />
-              Developer
+              <span className="highlight">Software</span><br />
+              Engineer
             </h1>
             <p className="hero-desc">
-              I'm a frontend developer based in Italy, I'll help you build beautiful websites your users will love.
+              I'm a Software Engineer passionate about designing and building
+              scalable, efficient, and user-friendly software solutions.
             </p>
             <div className="hero-buttons">
               <button className="btn btn-primary">Get In Touch</button>
@@ -55,7 +56,7 @@ export default function App() {
         </section>
 
         <section id="projects" className="section">
-          <h2>Projects</h2>
+          <h1>Projects</h1>
           <p>Here are a few projects I've worked on recently</p>
 
           <div className="projects-grid">
@@ -86,17 +87,19 @@ export default function App() {
         </section>
 
         <section id="about" className="section">
-          <h2>About Me</h2>
+    <h1 className="framer-text framer-styles-preset-9y448z" data-styles-preset="iwZUWfENf" style={{ '--framer-text-color': 'var(--token-ae272b84-a508-4205-a7e5-cc526e6b9840, rgb(36, 38, 47))' }}>
+      About me<span className="framer-text" style={{ '--framer-text-color': 'var(--token-e4865808-d3fd-4cc6-b7f8-3e7c150d7f2a, rgb(110, 6, 242))', color: 'purple' }}>.</span>
+    </h1>
           <p>
-            Hi! I'm <strong>Nomthandazo Mdlovu</strong>, a creative frontend
-            developer who enjoys transforming ideas into interactive, user-friendly
-            digital experiences. I'm passionate about learning modern web
-            technologies and collaborating with teams to build impactful products.
-          </p>
-          <p>
-            When I'm not coding, I enjoy exploring UI design tools like Figma,
-            learning new frameworks, and working on side projects to sharpen my
-            skills.
+          Hi! I'm <strong>Nomthandazo Mdlovu</strong>, a driven Software Engineer
+          with expertise in Python, Java, HTML, CSS, and SQL, and hands-on experience
+          with AWS cloud technologies. I graduated from WeThinkCode_ and am currently
+          upskilling myself in both technical and soft skills at tma Academy.
+          I excel in cloud computing, problem-solving, and collaborative development
+          using Git. Passionate about innovation and continuous learning, I thrive in
+          dynamic teams, leveraging my skills to deliver impactful, scalable solutions.
+          When I'm not coding, I enjoy exploring UI design tools like Figma, learning
+          new frameworks, and working on side projects to sharpen my skills.
           </p>
         </section>
       </div>
