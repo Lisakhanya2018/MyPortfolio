@@ -18,7 +18,11 @@ RUN npm run build
 # Step 2: Serve with Nginx
 FROM nginx:alpine
 
+# Copy build output
 COPY --from=build /app/build /usr/share/nginx/html
+
+# Copy custom Nginx configuration
+COPY ./portfolio/nginx.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80
 
