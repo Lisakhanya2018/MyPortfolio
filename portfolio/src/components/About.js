@@ -15,7 +15,7 @@ const About = () => {
           upskilling myself in both technical and soft skills at <strong>tma Academy</strong>.
         </p>
         <p className="about-text">
-          I excel in cloud computing, problem-solving, and collaborative development
+          I excel in cloud computing, problem solving, and collaborative development
           using Git. Passionate about innovation and continuous learning, I thrive in
           dynamic teams, leveraging my skills to deliver impactful, scalable solutions.
         </p>

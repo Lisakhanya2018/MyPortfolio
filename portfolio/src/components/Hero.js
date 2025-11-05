@@ -18,7 +18,7 @@ const Hero = () => {
         </h1>
         <p className="hero-desc animate-fade-in-delay">
           I'm a Software Engineer passionate about designing and building
-          scalable, efficient, and user-friendly software solutions.
+          scalable, efficient, and user friendly software solutions.
         </p>
         <div className="hero-buttons animate-fade-in-delay-2">
           <button

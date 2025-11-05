@@ -6,13 +6,13 @@ const Education = () => {
     {
       institution: "WeThinkCode_",
       degree: "Software Engineering",
-      period: "2022 - 2024",
+      period: "2023 - 2025",
       description: "Intensive two-year software engineering program focusing on problem-solving, peer learning, and real-world project development."
     },
     {
       institution: "tma Academy",
       degree: "Professional Development Program",
-      period: "2024 - Present",
+      period: "2025 - Present",
       description: "Comprehensive upskilling program covering advanced technical skills and essential soft skills for professional growth."
     }
   ];
@@ -31,7 +31,7 @@ const Education = () => {
     {
       name: "Agile Development",
       issuer: "tma Academy",
-      date: "2024"
+      date: "2025"
     },
     {
       name: "Database Management",
